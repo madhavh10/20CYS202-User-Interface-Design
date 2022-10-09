@@ -9,6 +9,7 @@ A Flight ticket booking system has so many processes like
 3) Book tickets
 4) Payment
 5) Cancel Tickets and refund process
+
 Basically when we create a website or a user interface for the users, there are three steps that we used to approach:
 1. User analysis.
 2. System prototyping.
